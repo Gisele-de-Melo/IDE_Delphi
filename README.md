@@ -12,4 +12,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/ide-do-delphi/
+  https://www.codedelphi.com/2024/07/ide-do-delphi.html
